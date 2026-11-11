@@ -51,7 +51,7 @@
   </ItemGroup>
   <!-- Enable Nuget Source Link for github -->
   <ItemGroup>
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="11.0.100" PrivateAssets="All" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFrameworks>net472;netstandard2.0;net6.0</TargetFrameworks>
